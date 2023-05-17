@@ -1,9 +1,16 @@
 > RCVRY is a brand built to feed an infinitely-hungry internet community with history rooted in gaming, streetwear, sports, and cannabis. 
 
-Welcome to RCVRY.
+Welcome to RCVRY
 =========================
+*As cannabis legislation continues to pass across the world, it is becoming increasingly evident just how valuable transparency between company and consumer truly is for the customer...*
 
-A technical perspective of our brand:
+Points of focus for RCVRY as a brand:
+--------------------------
+
+* Data
+* User traffic
+* Conversion through content
+* Strategic partnerships
 <!--
 
 **Here are some ideas to get you started:**
