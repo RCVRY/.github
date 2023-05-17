@@ -1,5 +1,9 @@
-## Hi there 👋
+> RCVRY is a brand built to feed an infinitely-hungry internet community with history rooted in gaming, streetwear, sports, and cannabis. 
 
+Welcome to RCVRY.
+=========================
+
+A technical perspective of our brand:
 <!--
 
 **Here are some ideas to get you started:**
