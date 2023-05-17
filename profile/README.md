@@ -2,15 +2,14 @@
 
 Welcome to RCVRY
 =========================
-*As cannabis legislation continues to pass across the world, it is becoming increasingly evident just how valuable it is to maintain a high level of transparency between company and consumer...*
+*As cannabis legislation passes across the world, it is overwhelmingly obvious how important it is for a brand to maintain near perfect transparency between company and consumer...*
 
 Points of focus for RCVRY as a brand:
 --------------------------
 
-* Data
-* User traffic
-* Conversion through content
-* Strategic partnerships
+* Data at every turn
+* User traffic generated from in house leads/content
+* Strategic partnerships from in house network
 <!--
 
 **Here are some ideas to get you started:**
