@@ -2,7 +2,7 @@
 
 Welcome to RCVRY
 =========================
-*As cannabis legislation continues to pass across the world, it is becoming increasingly evident just how valuable transparency between company and consumer truly is for the customer...*
+*As cannabis legislation continues to pass across the world, it is becoming increasingly evident just how valuable it is to maintain a high level of transparency between company and consumer...*
 
 Points of focus for RCVRY as a brand:
 --------------------------
