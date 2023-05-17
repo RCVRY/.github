@@ -10,6 +10,7 @@ Points of focus for RCVRY as a brand:
 * Data at every possible turn
 * User traffic generated from in house leads/content
 * Strategic partnerships from in house network
+* Increasing consumer awareness (Terplus.io partnership)
 <!--
 
 **Here are some ideas to get you started:**
