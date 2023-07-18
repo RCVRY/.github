@@ -2,7 +2,7 @@
 
 Welcome to RCVRY
 =========================
-*As cannabis legislation passes across the world, it is overwhelmingly obvious how important it is for a brand to maintain near perfect transparency between company and consumer...*
+*With the internet currently evolving at an exponential rate, it should be overwhelmingly obvious to you how important it is for a brand to maintain near-perfect transparency between company and consumer...*
 
 Points of focus for RCVRY as a brand:
 --------------------------
